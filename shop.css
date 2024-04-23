@@ -196,6 +196,7 @@ body {
 }
 
 footer {
+     flex-wrap: wrap;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
